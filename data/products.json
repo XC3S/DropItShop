@@ -1,0 +1,23 @@
+[
+	{
+		"uuid": "00000001",
+		"displaynames": {
+			"de": "Produkt 1",
+			"en": "Product 1"
+		},
+		"shortdescription": {
+			"de": "Produkt eins Kurzbeschriebung",
+			"en": "Product one shortdescription"
+		},
+		"londescription": {
+			"de": "",
+			"en": ""
+		},
+		"price": {
+			"baseprice": {
+				"euro": 12.00,
+				"usd": 14.00
+			}
+		}
+	}
+]
