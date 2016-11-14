@@ -9,10 +9,11 @@ a state of the art e-commerce platform with focus on smaller dropshipping shops 
 - cache data in your local browser storage (ultra high performance for end users)
 - store data in json files (easy to import/export/copy/repair/versionize)
 - integrated scss comipler
-- clean frontend without integrated css libs making it easy to implement almost every possible design
-- integrated Google Search data types
+- clean frontend without integrated css libs making it easy to implement almost every possible design from scratch
+- integrated Google Search data types 
 - integrated Open Graph API tags (For Social Media Platforms)
+- out of the box Braintree Payment
 
 ## Dropshipping Features
-- tbd
-
+- automatic stock checks
+- using aliexpress affiliate programm
