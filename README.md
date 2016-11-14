@@ -1,7 +1,14 @@
+<img src="https://material.angularjs.org/latest/img/icons/angular-logo.svg" height="80">
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="80">
+<img src="https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="70">
+<img src="http://underscorejs.org/docs/images/underscore.png" height="60">
+
+
+
 # DropItShop
 a state of the art e-commerce platform with focus on smaller dropshipping shops ( <250 products)
 
-![alt tag](https://cdn.meme.am/cache/instances/folder969/500x/73154969.jpg)
+<img src="https://cdn.meme.am/cache/instances/folder969/500x/73154969.jpg" height="300" style="display: block; margin: auto;">
 
 ## Key Features
 - Full JS Frontend (using angular)
