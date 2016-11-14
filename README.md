@@ -1,6 +1,8 @@
 # DropItShop
 a state of the art e-commerce platform with focus on smaller dropshipping shops ( <250 products)
 
+![alt tag](https://cdn.meme.am/cache/instances/folder969/500x/73154969.jpg)
+
 ## Key Features
 - Full JS Frontend (using angular)
 - no requests just websockets (2 way communication)
